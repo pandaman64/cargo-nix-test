@@ -1,0 +1,38 @@
+{
+    "cargo-nix": {
+        "branch": "main",
+        "description": "Install Rust binaries using Nix",
+        "homepage": null,
+        "owner": "pandaman64",
+        "repo": "cargo-nix",
+        "rev": "ee7675ce689fb582c363a6766ef0f1514bda0473",
+        "sha256": "0scc2z6ajymihrb6zz5wky7dkzg48ibv1213mlnf83bmryzxv4pz",
+        "type": "tarball",
+        "url": "https://github.com/pandaman64/cargo-nix/archive/ee7675ce689fb582c363a6766ef0f1514bda0473.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "niv": {
+        "branch": "master",
+        "description": "Easy dependency management for Nix projects",
+        "homepage": "https://github.com/nmattia/niv",
+        "owner": "nmattia",
+        "repo": "niv",
+        "rev": "3cd7914b2c4cff48927e11c216dadfab7d903fe5",
+        "sha256": "1agq4nvbhrylf2s77kb4xhh9k7xcwdwggq764k4jgsbs70py8cw3",
+        "type": "tarball",
+        "url": "https://github.com/nmattia/niv/archive/3cd7914b2c4cff48927e11c216dadfab7d903fe5.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "release-20.09",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "abe7f45882090f7150d0289b1e381d0620f4a545",
+        "sha256": "0g8apyq774qqhzkz4msmcchwd39m24000q1y0jmak8s4i6qjsw14",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/abe7f45882090f7150d0289b1e381d0620f4a545.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
