@@ -5,10 +5,10 @@
         "homepage": null,
         "owner": "pandaman64",
         "repo": "cargo-nix",
-        "rev": "ee7675ce689fb582c363a6766ef0f1514bda0473",
-        "sha256": "0scc2z6ajymihrb6zz5wky7dkzg48ibv1213mlnf83bmryzxv4pz",
+        "rev": "7c56e8e7faebb46bfa4e173293706ce9111c187e",
+        "sha256": "1qan8mnlmwhpshqjm8988pbx623qvrm6v4dlk15hrd66719darpx",
         "type": "tarball",
-        "url": "https://github.com/pandaman64/cargo-nix/archive/ee7675ce689fb582c363a6766ef0f1514bda0473.tar.gz",
+        "url": "https://github.com/pandaman64/cargo-nix/archive/7c56e8e7faebb46bfa4e173293706ce9111c187e.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "niv": {
@@ -24,15 +24,15 @@
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "nixpkgs": {
-        "branch": "release-20.09",
+        "branch": "nixos-unstable",
         "description": "Nix Packages collection",
         "homepage": "",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "abe7f45882090f7150d0289b1e381d0620f4a545",
-        "sha256": "0g8apyq774qqhzkz4msmcchwd39m24000q1y0jmak8s4i6qjsw14",
+        "rev": "fab6fcdceb2560a4ab943830a2b1632458c7a6ff",
+        "sha256": "1bszj8anac9saszpcr6xg78mmly3biq030g53rc2fyrmfbr0sfik",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/abe7f45882090f7150d0289b1e381d0620f4a545.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/fab6fcdceb2560a4ab943830a2b1632458c7a6ff.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
