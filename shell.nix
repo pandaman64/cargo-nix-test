@@ -5,6 +5,7 @@ let
 in pkgs.mkShell {
   buildInputs = [
     pkgs.nixfmt
+    pkgs.niv
     cargoNix
     pkgs.python3
     pkgs.python3Packages.requests
